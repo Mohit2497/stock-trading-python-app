@@ -30,7 +30,4 @@ This project contains a single script that downloads stock tickers and saves the
 - A file named `tickers.csv` with ~500 tickers and consistent columns
 
 ## Acknowledgments
-
 This work is based on Zach Wilson’s Beginner Data Engineering Bootcamp.
-- Bootcamp: [github.com/zachwilson/beginner-data-engineering-bootcamp](https://github.com/zachwilson/beginner-data-engineering-bootcamp)
-- Zach’s site: [dataengineeringweekly.com](https://www.dataengineeringweekly.com/)
