@@ -1,4 +1,4 @@
-# Stock Ticker CSV Generator — Lesson 2
+# Building a REST API Extractor with Python
 
 I’m following Zach Wilson’s Beginner Data Engineering Bootcamp. In this lesson I built a simple Python script that pulls stock tickers from Polygon.io and saves them to a clean CSV. It’s a small, practical step: read an API, handle multiple pages of results, and produce a file that’s ready to use.
 
